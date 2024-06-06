@@ -1,5 +1,5 @@
 /** The HelloWorldApp class implements an application that simply prints "Hello World" to standard output.**/
-public class Devopshello
+public class devopshello
 {
 public static void main(String[] args) 
   {
